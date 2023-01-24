@@ -24,7 +24,12 @@ The goal is for you to learn how to setup an environment for development and deb
 
 5. **If your local machine's operating system is Windows** install Windows Subsystem for Linux (WSL) 2 on it.
 
-6. (Optional) If you would like some additional practice with Git in a simulated file system, visit [Learn Git Branching](https://learngitbranching.js.org/) and work through the exercises there.
+6. Ensure that you have a working package manger installed.
+   * If your local machine is running macOS I would recommend [Homebrew](https://brew.sh/).
+   * If your local machine is running a Linux distribution there should be a built in package manager.
+   * If your local machine is running Windows, use the `apt` package manager in the Ubuntu environment from WSL2.
+
+7. (Optional) If you would like some additional practice with Git in a simulated file system, visit [Learn Git Branching](https://learngitbranching.js.org/) and work through the exercises there.
 
 ## Steps
 
