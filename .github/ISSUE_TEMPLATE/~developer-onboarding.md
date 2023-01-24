@@ -5,7 +5,7 @@ about: Outline of tasks for new developers to complete as part of their onboardi
 ---
 # Developer Setup
 
-This first Issue is meant to help get your work computer into a state where it is ready for software development and have you document how you got there for your future self and others. This will also serve as a short exercise in making a PR and communication. Depending on your familiarity level with the tools covered this may take you a day or a week &mdash; both are fine, just please remember to track and record the time that you spend working.
+:wave: Hi ${{developer GitHub name}}. This first Issue is meant to help get your work computer into a state where it is ready for software development and have you document how you got there for your future self and others. This will also serve as a short exercise in making a PR and communication. Depending on your familiarity level with the tools covered this may take you a day or a week &mdash; both are fine, just please remember to track and record the time that you spend working.
 
 There is no need to treat this like homework where you have to try to figure things out by yourself. You can ask for help from me and others. The goal is for you to learn how to setup an environment for development and debugging before we move onto other development tasks, so the steps are intentionally meant to be high level directives that you will need to figure out how to implement (they will vary drastically in time required).
 
