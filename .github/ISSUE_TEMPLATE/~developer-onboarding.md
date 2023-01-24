@@ -53,4 +53,4 @@ Add the source files, required build system files, and instructions on how to bu
 
 12. Write a Dockerfile that when built will build and run your earlier example program. Include this Dockerfile and build instructions or script in your PR.
 
-12. Move your PR out of draft mode and tag Matthew to review the PR.
+13. Move your PR out of draft mode and tag Matthew to review the PR.
