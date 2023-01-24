@@ -1,6 +1,6 @@
 ---
-name: ✅  Release Checklist (Maintainers Only)
-about: Checklist for core developers to complete as part of making a release
+name: ✅  Developer Onboarding (Maintainers Only)
+about: Outline of tasks for new developers to complete as part of their onboarding process
 
 ---
 # Developer Setup
