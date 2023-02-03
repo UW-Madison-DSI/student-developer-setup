@@ -1,8 +1,9 @@
 FROM gcc:12.2.0
 
-COPY . /home
 WORKDIR /home
+COPY ./hello.c .
+COPY ./build.sh .
 
-RUN gcc -Wall -Werror -std=c11 -o hello hello.c
+RUN sh ./build.sh
 
 CMD [ "./hello", "world!" ]
