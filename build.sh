@@ -1,3 +1,3 @@
 #!/bin/sh
-pip install requirement.txt
+pip install -r requirements.txt
 python3 ./Zhuang/hello.py
