@@ -7,5 +7,5 @@ run:
 	java helloWorld
 
 #Clean all class files
-clean: 
+clean:
 	rm *.class
