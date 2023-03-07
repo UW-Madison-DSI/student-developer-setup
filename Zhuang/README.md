@@ -18,7 +18,7 @@
 
 11) Created a Dockerfile Zhuang folder that builds and runs the "hello world" program
 
-    This Dockerfile can be used to compile and run the "hello world" program. First, make sure Docker is installed, then `cd` into the `battle` directory and run:
+    This Dockerfile can be used to compile and run the "Hello" program. First, make sure Docker is installed, then `cd` into the `battle` directory and run:
 
     `docker build -t my_image_name .`
 
