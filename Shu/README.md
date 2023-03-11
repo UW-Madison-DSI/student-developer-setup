@@ -13,3 +13,15 @@
 7.Added the pre-commit config file to PR.
 
 8.Installed Docker, worked through 'The Carpentries Incubator module on Docker'
+
+9.Created Dockerfile,push dockerfile to docker hub
+
+    to use this dockerfile, input commands: 
+
+    A) docker image pull xshu29/firstprecommit
+    
+    B) docker container run xshu29/firstprecommit
+    
+    C) if everything runs well you will see a "goodnight world"
+    
+10. Pushed changes to github
