@@ -9,3 +9,4 @@ run:
 #Clean all class files
 clean:
 	rm *.class
+
