@@ -15,6 +15,6 @@
 8. To build this Dockerfile, execute the following build commands:
 	A) sudo docker image build -t urmishukla/ubuntu-java:v1 .
 	B) run "sudo docker image ls" to check that this new Docker image is present.
-	C) rsudo docker container run --mount type=bind,source=${PWD},target=/temp urmishukla/ubuntu-java:v1 java/temp/helloWorld.java
+	C) sudo docker container run --mount type=bind,source=${PWD},target=/temp urmishukla/ubuntu-java:v1 java/temp/helloWorld.java
 
 9. Add, commit, and push all changes.
