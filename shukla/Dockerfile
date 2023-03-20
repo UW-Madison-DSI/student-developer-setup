@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:22.04
 RUN apt-get update && \
 	DEBIAN_FRONTEND=non-interactive \
 	apt-get -y install default-jre-headless && \
