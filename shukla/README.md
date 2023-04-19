@@ -17,6 +17,6 @@
 9. To build this Dockerfile, execute the following build commands:
 	A) docker build -t urmishukla/ubuntu-java:v1 .
 	B) run "docker image ls" to check that this new Docker image is present.
-	C) run "docker run urmishukla/ubuntu-java:v1"
+	C) run "docker run --rm urmishukla/ubuntu-java:v1"
 
 10. Add, commit, and push all changes.
