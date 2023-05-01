@@ -1,6 +1,6 @@
 1. Forked repository, cloned onto local device
 
-2. Download VSCode for Ubuntu Virtual Machine.
+2. Download VSCode for Ubuntu Virtual Machine. Make sure all required packages are downloaded in VSCode, including a JDK, make, and any other required extensions. 
 
 3. Created new branch "ukshukla" and created directory "shukla", with this README.md file in it.
 
