@@ -18,10 +18,10 @@
 
     to use this dockerfile, input commands: 
 
-    A) docker image pull xshu29/firstprecommit
+    * docker pull xshu29/firstprecommit:latest
     
-    B) docker container run xshu29/firstprecommit
+    * docker run --rm xshu29/firstprecommit:latest
     
-    C) if everything runs well you will see a "goodnight world"
+    * if everything runs well you will see a "goodnight world"
     
 10. Pushed changes to github
